@@ -41,8 +41,7 @@ class _AboutDevelopersState extends State<AboutDevelopers> {
                   facebookLink: 'https://github.com/olagookundavid',
                   linkedinLink:
                       'https://www.linkedin.com/in/david-olagookun-17a862218/',
-                  telegramLink: 'https://wa.me/qr/KDHE2Y223QWCC1',
-                  twitterLink: 'https://twitter.com/erijesudo',
+                  twitterLink: 'https://twitter.com/david__oh',
                   whatappLink: 'tel:+234 7085569828',
                   skillAndTools1: 'assets/flutter.png',
                   skillAndTools2: 'assets/dart.png',

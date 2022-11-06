@@ -10,7 +10,6 @@ class Developer extends StatelessWidget {
   final String title;
   final String location;
   final String whatappLink;
-  final String telegramLink;
   final String twitterLink;
   final String facebookLink;
   final String linkedinLink;
@@ -39,7 +38,6 @@ class Developer extends StatelessWidget {
     required this.whatICanDO,
     required this.location,
     required this.whatappLink,
-    required this.telegramLink,
     required this.twitterLink,
     required this.facebookLink,
     required this.linkedinLink,
@@ -105,7 +103,7 @@ class Developer extends StatelessWidget {
                     horizontal: 7,
                   ),
                   width: width / 2.7,
-                  height: height / 8,
+                  height: height / 7.5,
                   decoration: BoxDecoration(
                     borderRadius: BorderRadius.circular(7),
                     boxShadow: const [
@@ -133,7 +131,7 @@ class Developer extends StatelessWidget {
                       Text(
                         fullName,
                         style: const TextStyle(
-                          fontSize: 20,
+                          fontSize: 17,
                           letterSpacing: 0.5,
                         ),
                       ),
